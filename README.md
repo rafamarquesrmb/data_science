@@ -10,6 +10,9 @@ My credentials include a Bacharelor's in Science and Technology from the Federal
 
 **Background in:** UI/UX Design, HTML, CSS, JavaScript, ReactNative, WordPress, PhP, Python, Digital Marketing, Content Marketing
 
+**Projects:**
+* [Uma rápida Introdução a Biblioteca Pandas](https://github.com/rafamarquesrmb/data_science/blob/main/introducao_ao_pandas/introducao_ao_pandas.ipynb)
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafamarquesrmb/)
 
