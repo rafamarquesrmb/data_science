@@ -10,13 +10,14 @@ Análise de Dados Estatísticos sobre a Violência no Rio de Janeiro no Período
 
 Todos os dados trabalhados nesse projeto foram obtidos na base de Dados da Polícia Militar do Rio de janeiro sobre a violência, através do [portal oficial do Governo do Estado do Rio de Janeiro](http://www.ispdados.rj.gov.br/estatistica.html).
 
+Com base neste projeto, escrevi o artigo ["Rio de Janeiro, a Cidade Mara…violenta?"](https://rafamarquesrmb.medium.com/rio-de-janeiro-a-cidade-mara-violenta-4b342874bff8), publicado no Medium
 
 ---
 
 ## Links do Projeto:
 * [Notebook](https://github.com/rafamarquesrmb/data_science/blob/main/projeto02_analise_de_dados_violencia_rio_de_janeiro/analisedados_violencia_riodejaneiro_2000a2019.ipynb)
 * [Dataset em CSV](https://github.com/rafamarquesrmb/data_science/blob/main/projeto02_analise_de_dados_violencia_rio_de_janeiro/violencia_rio.csv)
-* Artigo no Medium - EM PRODUÇÃO
+* [Artigo no Medium](https://rafamarquesrmb.medium.com/rio-de-janeiro-a-cidade-mara-violenta-4b342874bff8)
 
 
 **Recomendo abrir o projeto através do Google Colab ou Jupyter Notebook para melhor visualização** 
