@@ -4,7 +4,7 @@
 </p>
 
 # Rafael Marques Borges
-<sub>*Data Scientist and AI Researcher*</sub>
+<sub>*Data Scientist and AI enthusiastic*</sub>
 
 My credentials include a Bacharelor's in Science and Technology from the Federal University of Bahia (UFBA).
 
